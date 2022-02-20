@@ -5,6 +5,6 @@
 [![GomesGroup GitHub - Follow on Twitter](https://img.shields.io/twitter/follow/gomes_group_cmu?color=blue&label=Twitter&logo=Twitter&logoColor=blue&style=for-the-badge)](https://github.com/gomesgroup)
 
 ---
-### who we are?
+### who we are
 
 *The Gomes Group research program will focus on the development of new chemical reactions, catalysts, and materials using and developing state-of-the-art machine learning and automated synthesis.*
