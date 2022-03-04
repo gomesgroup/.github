@@ -7,7 +7,7 @@
 ---
 ### our philosophy
 
-*Solving Problems with Computers*
+Solving problems in chemistry and engineering with computers
 
 ### who we are
 
